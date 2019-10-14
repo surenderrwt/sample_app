@@ -32,6 +32,12 @@ gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
+
+
+# gems by book
+gem 'carrierwave', '~> 2.0'
+gem "mini_magick"
+gem 'fog'
 gem 'bcrypt', '~> 3.1.7'
 gem 'faker'
 gem 'will_paginate', '~> 3.1.0'
