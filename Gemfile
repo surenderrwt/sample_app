@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.5'
 
 
 # gems by book
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem "mini_magick"
 gem 'fog'
 gem 'bcrypt', '~> 3.1.7'
